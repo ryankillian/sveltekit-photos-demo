@@ -1,6 +1,6 @@
 # sveltlekit photos app
 
-Showcasing new Sveltkit functionality including endpoints, routing, nested layouts.
+Showcasing new Sveltekit functionality including endpoints, routing, nested layouts.
 
 Based on Rich Harris demo.
 
